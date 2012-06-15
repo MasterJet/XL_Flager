@@ -1,0 +1,6 @@
+XL_Flager
+
+1. Import /database/flager.sql in mysql database use flager/flager/flager as ( user/password/database ).
+2. Run /PHPfiles/getProxy/getProxy.php it will collect,test and refine proxies.
+3. /Jarz direcory contains jar files of Selenium and mysql connector.  
+4. /src/flager/Flager.java got main method to launch application.
